@@ -2,7 +2,7 @@
 """
 Advanced Calculator Application
 Performs basic and scientific calculations with history tracking
-Author: Badal Prajapati
+Author: Badal Chaudhary 
 CODSOFT Python Programming Internship - Task 2
 """
 
