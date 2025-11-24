@@ -2,7 +2,7 @@
 """
 Task Management Application
 A simple yet powerful command-line tool for managing daily tasks
-Author: Badal Prajapati
+Author: Badal Chaudhary 
 Project: CODSOFT Python Programming Internship
 """
 
