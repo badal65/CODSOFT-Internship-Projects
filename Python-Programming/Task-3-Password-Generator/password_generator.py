@@ -2,7 +2,7 @@
 """
 Secure Password Generator
 Generates strong, customizable passwords for enhanced security
-Author: Badal Prajapati
+Author: Badal Chaudhary 
 CODSOFT Python Programming Internship - Task 3
 """
 
